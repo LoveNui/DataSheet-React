@@ -12,11 +12,6 @@
 
 A simple react component to create a spreadsheet.
 
-Demo here: https://nadbm.github.io/react-datasheet/
-
-Examples are located in
-https://github.com/nadbm/react-datasheet/tree/master/docs/src/examples
-
 Current features:
 
 - Select cells, cut, copy and paste cells
